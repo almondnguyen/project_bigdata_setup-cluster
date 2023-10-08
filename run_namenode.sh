@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# Exit on non-zero ret
+set -e
+
 echo $(dirname "$0")
 COMPONENTS_DIR=$(dirname "$0")/components
 
