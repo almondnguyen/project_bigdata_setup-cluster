@@ -1,4 +1,19 @@
-#### MADE BY Almond(R) ####
+# Disclaimer
+
+```
+/*
+* Your warranty is now void.
+*
+* I am not responsible for bricked devices, dead SD cards,
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+* do some research if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you point the finger at me for messing up your device, I will laugh at you.
+*/
+```
+
+DO NOT RUN THIS ON REAL MACHINE, IT MAY BREAK YOUR LINUX-OS.
+---
 
 # Intro
 This script is made to automate the installation of a new Hadoop/VM cluster as part of HUST course homework/project.
