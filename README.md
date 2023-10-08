@@ -17,20 +17,5 @@ This script assumes the following:
 
 # Usage
 
-## For Namenode (aka. the one that manages all other nodes)
-
-Execute run_namenode.sh, located in this folder, in terminal:
-```bash
-./run_namenode.sh
-```
-
-## For Datanode (aka. storage)
-
-Execute run_datanode.sh WITH the domain name of the node (aka the latter half of almond@"porky").
-- If you do not want to change hostname, input 0
-- If you want to change hostname to "node2", input node2
-
-```bash
-./run_namenode.sh node2
-```
+[Refer to the Wiki](https://github.com/almondnguyen/project_bigdata_setup-cluster/wiki)
 
