@@ -13,5 +13,7 @@ then
 else
 	echo "$SCRN: already patched, skipping..."
 fi
- 
+
+sleep 1
+
 exit

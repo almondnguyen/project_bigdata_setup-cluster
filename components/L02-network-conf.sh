@@ -73,4 +73,6 @@ then
 	ssh-copy-id -i $HOME/.ssh/id_rsa.pub hduser@datanode2
 fi
 
+sleep 3
+
 exit

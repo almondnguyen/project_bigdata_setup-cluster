@@ -8,4 +8,6 @@ sudo apt autoremove -y
 
 echo "$SCRN: done removing bloats"
 
+sleep 1
+
 exit
